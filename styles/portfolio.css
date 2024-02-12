@@ -48,7 +48,7 @@ nav li{
     align-items: center;
 }
 .banner-title{
-font-weight: 700;
+font-weight: bolder;
 font-size: 85;
 }
 .banner-sub-title{
@@ -175,6 +175,9 @@ color: #757575;
 }
 input{
     height: 64px;
+}
+.contact a{
+    text-decoration: none;
 }
 
 
